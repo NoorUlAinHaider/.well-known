@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.noor.cv.base",
+    "sha256_cert_fingerprints":
+    ["7F:F9:F7:2A:30:64:FD:55:93:8B:3A:B1:56:FF:D2:81:4E:BE:60:AA:E1:1D:44:02:84:BD:DD:49:46:C2:45:19"]
+  }
+}]
